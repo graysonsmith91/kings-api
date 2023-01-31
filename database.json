@@ -1,0 +1,48 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "DFoxMyGOAT",
+        "email": "gsmith@gmail.com",
+        "aboutMe": "I love the Kangz",
+        "location": "Nashville, TN",
+        "picture": "https://i.pinimg.com/originals/98/d2/9d/98d29d40bcfb426c638ac8a0bc544edc.png",
+        "isAdmin": true
+      },
+      {
+        "id": 1,
+        "username": "KingKeegan45",
+        "email": "kangz4life@hotmail.com",
+        "aboutMe": "Keegan Murray",
+        "location": "Sactown, CA",
+        "picture": "https://i.pinimg.com/originals/aa/8c/74/aa8c7493b3b69b0f80170e5172e6a027.jpg",
+        "isAdmin": false
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "text": "I love the kangzzz",
+        "userId": 1,
+        "categoryId": 2
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "category": "Rant"
+      },
+      {
+        "id": 2,
+        "category": "News"
+      },
+      {
+        "id": 3,
+        "category": "Event"
+      },
+      {
+        "id": 4,
+        "category": "Fun"
+      }
+    ]
+  }
